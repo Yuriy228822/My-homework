@@ -76,9 +76,6 @@ body {
     background-color: red;
   }
   @keyframes backgroundAnimation {
-    0% {
-      background: linear-gradient(to bottom right, #4d90fe, #8c7def);
-    }
     25% {
       background: linear-gradient(to bottom right, #f47f33, #ffc940);
     }
