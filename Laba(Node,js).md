@@ -13,5 +13,14 @@ NodeJS:
 
 NPM: 
 
+Скрипт: 
+![image](https://github.com/Yuriy228822/My-homework/assets/160457523/0db88255-36e4-4635-a1b1-8ef5a75fe05c)
+
+Запись в Node.js: 
+![image](https://github.com/Yuriy228822/My-homework/assets/160457523/d16f5a6a-bda5-4b39-a0ec-e8484cff6e5c)
+
+Загрузка lodash и запуск скрипта через npm sort-users: 
+![image](https://github.com/Yuriy228822/My-homework/assets/160457523/9c6ea0c9-65a2-49aa-be6c-a3f85447ffe2)
+
 
 
