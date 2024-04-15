@@ -6,23 +6,42 @@
 
 Поставить и удалить библиотеку lodash ("npm i lodash", "npm un lodash"): убедиться, что работает установка библиотек
 
+
+
 (npm i lodash)
 ![image](https://github.com/Yuriy228822/My-homework/assets/160457523/94fee973-a0a4-458c-8dcd-9a128684b241)
+
+
 
 (npm un lodash)
 ![image](https://github.com/Yuriy228822/My-homework/assets/160457523/d5983ef9-a7e8-4608-bbd8-19bf3d480199)
 
+
+
 Поставить Webpack
 ![image](https://github.com/Yuriy228822/My-homework/assets/160457523/644e44a1-18c4-4966-97f7-354fa5398ac4)
 
+
+
 создать webpack.config.js
 ![image](https://github.com/Yuriy228822/My-homework/assets/160457523/fabf0818-eb63-4b66-a157-50f3d7d09f69)
+
+
 
 В package.json прописать скрипты для старта и сборки проекта: "start": "webpack-dev-server --config webpack.config.js", "build": "webpack --config webpack.config.js"
 
 ![image](https://github.com/Yuriy228822/My-homework/assets/160457523/6e5cf7f6-bbed-45f9-9744-d752813b042d)
 
 
+
+Убедиться, что скрипты работают ("npm run start", "npm run build")
+1-----![image](https://github.com/Yuriy228822/My-homework/assets/160457523/44d9fedd-e594-4575-8f5e-249ea902c297)
+2-----![image](https://github.com/Yuriy228822/My-homework/assets/160457523/04b276ca-a32f-4b1e-ace0-c15e0fb95322)
+
+
+
+В файле .gitignore указать игнорируемые при коммите папки
+![image](https://github.com/Yuriy228822/My-homework/assets/160457523/59d03669-b6b7-4541-ba08-a730ae81c47b)
 
 
 
